@@ -1,4 +1,4 @@
-# Quiz-A multiplayer quiz app built using python.
+# MYQuiz-A multiplayer quiz app built using python.
 
 def ask_question(question, answer):
     print(f"Question: {question}")
